@@ -7,3 +7,4 @@
 2. Clothing
 3. The Human Company
 * Skilled work
+> Treat labour like employee
