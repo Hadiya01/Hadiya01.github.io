@@ -6,3 +6,4 @@
 1. MAA 
 2. Clothing
 3. The Human Company
+* Skilled work
